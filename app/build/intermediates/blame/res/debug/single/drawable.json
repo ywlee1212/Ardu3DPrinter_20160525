@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_seekbar_progress.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\blue_seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_bt.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_reload.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_reload.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_seekbar.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\red_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_axis_y.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_axis_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_send.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_manual.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_tab_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_camview.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_tab_camview.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_axis_z.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_axis_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_plus_10.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_plus_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_url.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_print.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_tab_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_axis_e.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_axis_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_seekbar.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\blue_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_minus_01.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_minus_01.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_capture.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_all_home.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_all_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_home.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_download.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_tab_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_btn.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_bt_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_plus_01.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_plus_01.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_refresh.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_seekbar_progress.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\red_seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_minus_10.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_minus_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_axis_x.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable\\selector_btn_axis_x.xml"
+    }
+]

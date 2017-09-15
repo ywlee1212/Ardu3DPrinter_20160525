@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_extruder.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_extruder.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_capture.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_capture.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_y_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_y_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_home_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_home_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_e_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_e_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\print_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\print_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_home_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_home_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\textbg_big.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\textbg_big.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\red.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_z.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_z.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_z_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_z_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bottom_bg.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\bottom_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_x_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_x_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reload_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_reload_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seturl_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\seturl_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_all_home_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_all_home_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camview_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\camview_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_y.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_y.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\maintitle.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\maintitle.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\manual_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\manual_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_send_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_send_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\download_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\download_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_z_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_z_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_humidity.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_refresh_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_refresh_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\manual_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\manual_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_minus_10_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_10_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_e_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_e_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stroke.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\stroke.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_minus_01_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_01_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_10_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_10_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_10_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_10_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\white_bg.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\white_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_send_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_send_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\textbg_small.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\textbg_small.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sb.9.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\sb.9.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_minus_10_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_10_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\print_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\print_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_capture_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_01_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_01_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_y_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_y_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_fan.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_fan.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\bt_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reload_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_reload_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camview_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\camview_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slider_thumb.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\slider_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\top_bg.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\top_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_sdcard_file.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_sdcard_file.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\bt_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_refresh_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_refresh_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\download_on.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\download_on.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_minus_01_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_01_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_all_home_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_all_home_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_x.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\text_x.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_capture_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seturl_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\seturl_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_plus_01_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_01_off.png"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_axis_x_off.png",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\drawable-xhdpi\\btn_axis_x_off.png"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ardu3DPrinter</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving application.</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="send">Send</string>
+    <string name="title_connected">connected</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_connecting">connecting…</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="txt_all_home">"All Home"</string>
+    <string name="txt_axis_home">"Home"</string>
+    <string name="txt_e_stepmotor">"E"</string>
+    <string name="txt_extruder_name">"Extruder : "</string>
+    <string name="txt_extruder_off">"Extruder Off"</string>
+    <string name="txt_extruder_on">"Extruder On"</string>
+    <string name="txt_fan_name">"Fan : "</string>
+    <string name="txt_fan_off">"Fan Off"</string>
+    <string name="txt_fan_on">"Fan On"</string>
+    <string name="txt_humidity_name">"Humidity : "</string>
+    <string name="txt_input_url">"Please input URL."</string>
+    <string name="txt_load_image">"Please wait while image loading…"</string>
+    <string name="txt_minus_1">"-1"</string>
+    <string name="txt_minus_10">"-10"</string>
+    <string name="txt_off">OFF</string>
+    <string name="txt_on">ON</string>
+    <string name="txt_plus_1">"+1"</string>
+    <string name="txt_plus_10">"+10"</string>
+    <string name="txt_reload">"Reload"</string>
+    <string name="txt_send_file">"Sending file…"</string>
+    <string name="txt_set_url">"Set URL"</string>
+    <string name="txt_x_axis_name">"X : "</string>
+    <string name="txt_x_stepmotor">"X"</string>
+    <string name="txt_y_axis_name">"Y : "</string>
+    <string name="txt_y_stepmotor">"Y"</string>
+    <string name="txt_z_axis_name">"Z : "</string>
+    <string name="txt_z_stepmotor">"Z"</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

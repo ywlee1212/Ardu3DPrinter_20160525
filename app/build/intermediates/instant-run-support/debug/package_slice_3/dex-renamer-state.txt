@@ -1,0 +1,4 @@
+#Sat Sep 16 06:12:54 KST 2017
+base.0=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

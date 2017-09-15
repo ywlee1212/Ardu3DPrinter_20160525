@@ -1,0 +1,10 @@
+#Sat Sep 16 06:12:53 KST 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_5eda1fe7ac09978fe0a5056e29c8fd3d4ec53a7a
+base.1=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_4304913bb6d90cb713412012c6e5aac56b401c0d
+base.0=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d622e1f498a0a4f69576e87e75ae66097eab8ced
+file.2=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_5eda1fe7ac09978fe0a5056e29c8fd3d4ec53a7a\\classes.dex
+file.1=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_4304913bb6d90cb713412012c6e5aac56b401c0d\\classes.dex
+file.0=C\:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d622e1f498a0a4f69576e87e75ae66097eab8ced\\classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_control.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\layout_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sd_file_list.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\sd_file_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ardu3dprinter.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\activity_ardu3dprinter.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_print.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\layout_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_download.xml",
+        "source": "C:\\Users\\owner\\AndroidStudioProjects\\Ardu3DPrinter_20160525\\app\\src\\main\\res\\layout\\layout_download.xml"
+    }
+]

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bottom_bg" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@drawable/top_bg">
+        <ImageView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/maintitle"/>
+	    <Button
+	        android:id="@+id/btn_bt"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/selector_btn_bt" />
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+        <include
+            android:id="@+id/layout_control"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/layout_control" />
+        <include
+            android:id="@+id/layout_print"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/layout_print" />
+        <include
+            android:id="@+id/layout_download"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/layout_download" />
+    </LinearLayout>
+
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content">
+	    <Button
+	        android:id="@+id/btn_layout_control"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:background="@drawable/selector_tab_manual" />
+	    <Button
+	        android:id="@+id/btn_layout_print"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:background="@drawable/selector_tab_print" />
+	    <Button
+	        android:id="@+id/btn_layout_download"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:background="@drawable/selector_tab_camview" />
+	</LinearLayout>
+
+</LinearLayout>

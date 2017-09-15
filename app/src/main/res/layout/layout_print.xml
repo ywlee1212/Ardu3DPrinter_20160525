@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+	    <Button
+	        android:id="@+id/btn_send_file"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/selector_btn_send" />        
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_bg">
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content">
+		    <ImageView 
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:scaleType="center"
+		        android:src="@drawable/text_sdcard_file"/>
+		    <Button
+		        android:id="@+id/btn_sd_refresh"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/selector_btn_refresh" />
+		</LinearLayout>
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="0dp"
+		    android:layout_weight="1"
+		    android:orientation="vertical"
+		    android:background="@drawable/stroke">
+			<TextView 
+			    android:id="@+id/tv_empty"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:gravity="center"
+			    android:visibility="gone"
+			    android:text="No File Lists"/>
+		    <ListView 
+		        android:id="@+id/lv_sd_file"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		    </ListView>
+		</LinearLayout>
+	</LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_bg">
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content">
+		    <ImageView 
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:scaleType="center"
+		        android:src="@drawable/text_capture"/>
+		    <Button
+		        android:id="@+id/btn_capture"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/selector_btn_capture" />
+		</LinearLayout>
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="0dp"
+		    android:layout_weight="1"
+		    android:background="@drawable/stroke">
+		    <ImageView 
+		        android:id="@+id/img_capture"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:scaleType="fitCenter" />"
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

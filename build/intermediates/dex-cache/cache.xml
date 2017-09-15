@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_5eda1fe7ac09978fe0a5056e29c8fd3d4ec53a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owner\.android\build-cache\b34bfa39e994029b1311d24ac95eac2430a19342\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d622e1f498a0a4f69576e87e75ae66097eab8ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0db25016686a37efc972117827ece40e77bd88ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owner\.android\build-cache\b34bfa39e994029b1311d24ac95eac2430a19342\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_4304913bb6d90cb713412012c6e5aac56b401c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c95f35924174af8a46b1ecf3e687168c9fc26f6f">
+        <dex dex="C:\Users\owner\AndroidStudioProjects\Ardu3DPrinter_20160525\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4eb313f262c7ceb612effd81e833b07f2474d411\classes.dex" />
+    </item>
+
+</items>
